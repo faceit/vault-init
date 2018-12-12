@@ -1,0 +1,4 @@
+# This file manages who needs to review changes to files in this repository.
+
+# ops team reviews everything
+* @faceit/ops
